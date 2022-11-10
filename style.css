@@ -1,0 +1,23 @@
+.wt {
+    max-width: 300px;
+    /* max-height: 80%; */
+}
+
+#photo {
+    border-radius: 100%;
+}
+
+body {
+    background-color: rgba(195, 195, 196, 0.992);
+}
+
+#divContainer {
+
+    background-color: rgb(212, 214, 216);
+    border-radius: 30px;
+    box-shadow: 10px 10px 76px -15px rgba(0, 0, 0, 0.412);
+}
+
+input {
+    background-color: rgb(145, 147, 149);
+}
